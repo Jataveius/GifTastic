@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* Background images */
+
+body {
+    background-image: url("http://eskipaper.com/images/tv-wallpaper-7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
